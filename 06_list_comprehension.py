@@ -29,7 +29,7 @@ for element in range(1,11):
   list_number_1.append(element * 2)
 print(list_number_1)
 
-# - parte 2 sin list comprehension
+# - parte 2 con list comprehension
 list_number_2 = [element * 2 for element in range(1,11)]
 print(list_number_2)
 
@@ -56,7 +56,7 @@ for element in range(1,11):
 print(list_number_1)
 
 
-# - parte 2 sin list comprehension
+# - parte 2 con list comprehension
 list_number_2.clear()
 list_number_2 = [element*2 for element in range(1,11) if element%2 ==0]
 print(list_number_2)
