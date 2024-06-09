@@ -92,7 +92,7 @@ print(new_dict)
 
 
 # parte 3 con dict comprenhension
-# Crédito: Adolfo Sebastián Jara Gavilanes (estuden at platzi)
+# Crédito: Adolfo Sebastián Jara Gavilanes (at platzi)
 new_dict.clear()
 new_dict = new_dict = {names[i]:ages[i] for i in range(len(names))}
 print(new_dict)
