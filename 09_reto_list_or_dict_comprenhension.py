@@ -30,3 +30,14 @@ print('v1 =>', even_numbers)
 even_numbers_v2 = [number for number in numbers if number%2 == 0]
 
 print('v2 =>', even_numbers_v2)
+
+'''
+#salida
+=====
+Clase 9 dict comprenhension con condicionales
+=====
+
+
+v1 => [16, 10, 34]
+v2 => [16, 10, 34]
+'''
