@@ -16,7 +16,7 @@ Aquí hay un ejemplo de una función en Python:
 '''
 
 def saludo(nombre):
-    return "Hola, " + nombre
+  return "Hola, " + nombre
 
 print(saludo("Mundo"))  # Salida: Hola, Mundo
 print('\n')
