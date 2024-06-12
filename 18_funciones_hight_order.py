@@ -68,7 +68,7 @@ Resultado de función HOF con lamda                 => 3
 # - caso 3
 print('\n')
 print('- Caso 3 Ejemplo de una "Higth order Function" con "lambda function')
-print('Se puede enviar funciones lambd directamente en la llamada de las HOF')
+print('Se puede enviar funciones lambda directamente en la llamada de las HOF')
 
 sum_hof_lambda = lambda x, func : func(x)
 result_3 = sum_hof_lambda(2, lambda x: x+1 )
