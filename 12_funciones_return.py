@@ -4,7 +4,7 @@ os.system('clear')
 
 print('\n')
 print('=====')
-print('Clase 10 funciones  return python')
+print('Clase 12 return python')
 print('=====')
 print('\n')
 
