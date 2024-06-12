@@ -7,17 +7,6 @@ print('Clase 14 refactor de proyecto')
 print('=====')
 print('\n')
 
-
-import os
-import random
-os.system('clear')
-
-print('=====')
-print('clase 14: proyecto final')
-print('=====')
-print('\n')
-
-
 options = ('piedra', 'papel', 'tijera')
 rounds=0
 computer_wins =0
