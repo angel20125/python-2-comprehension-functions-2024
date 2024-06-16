@@ -1,4 +1,13 @@
 
+
+import os
+os.system('clear')
+
+print('\n')
+print('=====')
+print('Clase 26 modulos en python')
+print('=====')
+
 '''
 #resumen
 
